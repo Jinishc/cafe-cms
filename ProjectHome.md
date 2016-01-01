@@ -1,0 +1,1 @@
+This project's aim is to create a GAE hosted cafe engine with ordering and order history functionality, along with menu/item editing. It need not be limited to use by restaurants or cafes, however. The main developer is Jeronimo Albi.
